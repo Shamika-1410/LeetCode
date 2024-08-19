@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamika-1410/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Shamika-1410/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shamika-1410/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamika-1410/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0283-move-zeroes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
