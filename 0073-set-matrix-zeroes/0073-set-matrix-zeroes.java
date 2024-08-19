@@ -2,8 +2,8 @@ class Solution {
     public static void setZeroes(int[][] matrix) {
         int r = matrix.length;
         int c = matrix[0].length;int k=0;
-        Set<Integer> rowSet = new LinkedHashSet<>();
-        Set<Integer> colSet = new LinkedHashSet<>();
+        Set<Integer> rowSet = new HashSet<>();
+        Set<Integer> colSet = new HashSet<>();
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(matrix[i][j]==0){
