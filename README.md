@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shamika-1410/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
