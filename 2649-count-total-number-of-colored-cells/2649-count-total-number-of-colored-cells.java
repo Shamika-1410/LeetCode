@@ -1,15 +1,7 @@
 class Solution {
-
     public long coloredCells(int n) {
-        long numBlueCells = 1;
-        int addend = 4;
-
-        // Iterate n - 1 times
-        while (--n > 0) {
-            // Add and update current multiple of 4
-            numBlueCells += addend;
-            addend += 4;
-        }
-        return numBlueCells;
+        long a = (long)Math.pow(n,2);
+        long b=(long)Math.pow(n-1,2);
+        return a+b;
     }
 }
