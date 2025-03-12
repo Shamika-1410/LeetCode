@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shamika-1410/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shamika-1410/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shamika-1410/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shamika-1410/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shamika-1410/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Shamika-1410/LeetCode/tree/master/3483-alternating-groups-ii) |
