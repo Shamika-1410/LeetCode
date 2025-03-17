@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shamika-1410/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shamika-1410/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shamika-1410/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shamika-1410/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shamika-1410/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shamika-1410/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shamika-1410/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shamika-1410/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shamika-1410/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shamika-1410/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shamika-1410/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shamika-1410/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shamika-1410/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
