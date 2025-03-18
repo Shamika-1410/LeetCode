@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shamika-1410/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shamika-1410/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shamika-1410/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shamika-1410/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shamika-1410/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
