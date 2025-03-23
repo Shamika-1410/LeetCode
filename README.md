@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Shamika-1410/LeetCode/tree/master/1013-fibonacci-number) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shamika-1410/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shamika-1410/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shamika-1410/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shamika-1410/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Breadth-First Search
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shamika-1410/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Shamika-1410/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Shamika-1410/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shamika-1410/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
