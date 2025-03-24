@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shamika-1410/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shamika-1410/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/Shamika-1410/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shamika-1410/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Shamika-1410/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Shamika-1410/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
+| [3430-count-days-without-meetings](https://github.com/Shamika-1410/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
