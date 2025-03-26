@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Shamika-1410/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shamika-1410/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shamika-1410/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shamika-1410/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shamika-1410/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Shamika-1410/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shamika-1410/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shamika-1410/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shamika-1410/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
 | [3430-count-days-without-meetings](https://github.com/Shamika-1410/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shamika-1410/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shamika-1410/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shamika-1410/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
