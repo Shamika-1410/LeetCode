@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shamika-1410/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shamika-1410/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Shamika-1410/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shamika-1410/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
+| [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shamika-1410/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shamika-1410/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shamika-1410/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Monotonic Stack
 |  |
 | ------- |
