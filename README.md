@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shamika-1410/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shamika-1410/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shamika-1410/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shamika-1410/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shamika-1410/LeetCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shamika-1410/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shamika-1410/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shamika-1410/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shamika-1410/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shamika-1410/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
