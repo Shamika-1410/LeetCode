@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shamika-1410/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
+| [2128-reverse-prefix-of-word](https://github.com/Shamika-1410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shamika-1410/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shamika-1410/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Shamika-1410/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1720-crawler-log-folder](https://github.com/Shamika-1410/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2128-reverse-prefix-of-word](https://github.com/Shamika-1410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shamika-1410/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shamika-1410/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shamika-1410/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2128-reverse-prefix-of-word](https://github.com/Shamika-1410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shamika-1410/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
