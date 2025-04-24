@@ -3,9 +3,10 @@ class Solution {
         int total = 0;
         for (int i = 0; i < K; i++) total += C[i];
         int best = total;
-        for (int i = K - 1, j = C.length - 1; i >= 0; i--, j--) {
-            total += C[j] - C[i];
-            best = Math.max(best, total);
+        int i = K-1,j=C.length-1;
+        while(i>=0){
+            total = total - C[i--] + C[j--];
+            best = Math.max(total,best);
         }
         return best;
     }
