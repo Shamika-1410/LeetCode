@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shamika-1410/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shamika-1410/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/Shamika-1410/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Shamika-1410/LeetCode/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/Shamika-1410/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Shamika-1410/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamika-1410/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/Shamika-1410/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shamika-1410/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
