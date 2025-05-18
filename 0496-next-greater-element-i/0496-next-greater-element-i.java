@@ -4,28 +4,21 @@ class Solution {
         Map<Integer,Integer> map = new HashMap<>(nums2.length);
         Stack<Integer> st = new Stack<>();
         int n = nums2.length;
-        map.put(nums2[n-1],-1);
-        st.push(nums2[n-1]);
-        int tos=0;
-        for(int i=n-2;i>=0;i--){
-            if(st.isEmpty()){
-                tos=-1;
-            }else{
-                tos=st.peek();
-            }
-            if(tos>nums2[i]){
-                map.put(nums2[i],tos);
-            }else{
-                while(tos<nums2[i] && !st.isEmpty()){
-                    st.pop();
-                    if(st.isEmpty()){
-                        tos=-1;break;
-                    }else{
+        for(int i=nums2.length-1;i>=0;i--){
+            int tos = -1;
+            if(!st.isEmpty()){
+                if(st.peek()>nums2[i]){
+                    tos = st.peek();
+                }else{
+                    while(!st.isEmpty() && st.peek()<nums2[i]){
+                        st.pop();
+                    }
+                    if(!st.isEmpty()){
                         tos=st.peek();
                     }
                 }
-                map.put(nums2[i],tos);
             }
+            map.put(nums2[i],tos);
             st.push(nums2[i]);
         }
         for(int i=0;i<nums1.length;i++){
