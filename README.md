@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Shamika-1410/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Shamika-1410/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamika-1410/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shamika-1410/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shamika-1410/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shamika-1410/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shamika-1410/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shamika-1410/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shamika-1410/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shamika-1410/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Shamika-1410/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/Shamika-1410/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Shamika-1410/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
