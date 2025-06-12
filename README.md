@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Shamika-1410/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Shamika-1410/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shamika-1410/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shamika-1410/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Queue
 |  |
 | ------- |
