@@ -1,27 +1,23 @@
 class Solution {
-    public static void setZeroes(int[][] matrix) {
+    public void setZeroes(int[][] matrix) {
+        Set<Integer> rows = new HashSet<>();
+        Set<Integer> cols = new HashSet<>();
         int r = matrix.length;
-        int c = matrix[0].length;int k=0;
-        Set<Integer> rowSet = new HashSet<>();
-        Set<Integer> colSet = new HashSet<>();
+        int c = matrix[0].length;
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(matrix[i][j]==0){
-                    if(!rowSet.contains(i)){
-                        rowSet.add(i);
-                    }
-                    if(!colSet.contains(j)){
-                        colSet.add(j);
-                    }
+                    rows.add(i);
+                    cols.add(j);
                 }
-            } 
+            }
         }
-        for(Integer row : rowSet){
+        for(int row : rows){
             for(int j=0;j<c;j++){
                 matrix[row][j]=0;
             }
         }
-        for(Integer col : colSet){
+        for(int col : cols){
             for(int i=0;i<r;i++){
                 matrix[i][col]=0;
             }
