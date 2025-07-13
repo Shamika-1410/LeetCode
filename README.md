@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Shamika-1410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shamika-1410/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shamika-1410/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shamika-1410/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shamika-1410/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shamika-1410/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shamika-1410/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shamika-1410/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Shamika-1410/LeetCode/tree/master/2846-robot-collisions) |
