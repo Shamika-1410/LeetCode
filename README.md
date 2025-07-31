@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shamika-1410/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2551-apply-operations-to-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shamika-1410/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Shamika-1410/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shamika-1410/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shamika-1410/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shamika-1410/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Shamika-1410/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Shamika-1410/LeetCode/tree/master/2690-house-robber-iv) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shamika-1410/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/Shamika-1410/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shamika-1410/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Shamika-1410/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shamika-1410/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shamika-1410/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shamika-1410/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shamika-1410/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
