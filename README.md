@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shamika-1410/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shamika-1410/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Shamika-1410/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shamika-1410/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shamika-1410/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shamika-1410/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shamika-1410/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Shamika-1410/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shamika-1410/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Shamika-1410/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shamika-1410/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shamika-1410/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shamika-1410/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shamika-1410/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shamika-1410/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Shamika-1410/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shamika-1410/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shamika-1410/LeetCode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shamika-1410/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Shamika-1410/LeetCode/tree/master/1036-rotting-oranges) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shamika-1410/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shamika-1410/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -631,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Shamika-1410/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/Shamika-1410/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
