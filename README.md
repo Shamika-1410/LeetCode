@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamika-1410/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shamika-1410/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Shamika-1410/LeetCode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shamika-1410/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shamika-1410/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shamika-1410/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shamika-1410/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shamika-1410/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Shamika-1410/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Shamika-1410/LeetCode/tree/master/0792-binary-search) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shamika-1410/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shamika-1410/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Shamika-1410/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Shamika-1410/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shamika-1410/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shamika-1410/LeetCode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shamika-1410/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
