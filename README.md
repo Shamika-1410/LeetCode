@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shamika-1410/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shamika-1410/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Shamika-1410/LeetCode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/Shamika-1410/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shamika-1410/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shamika-1410/LeetCode/tree/master/0242-valid-anagram) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamika-1410/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Shamika-1410/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Shamika-1410/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Shamika-1410/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shamika-1410/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shamika-1410/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shamika-1410/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Shamika-1410/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shamika-1410/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shamika-1410/LeetCode/tree/master/0547-number-of-provinces) |
