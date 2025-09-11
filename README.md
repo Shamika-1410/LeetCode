@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Shamika-1410/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1720-crawler-log-folder](https://github.com/Shamika-1410/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/Shamika-1410/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shamika-1410/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Shamika-1410/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shamika-1410/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Shamika-1410/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Shamika-1410/LeetCode/tree/master/1642-water-bottles) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Shamika-1410/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shamika-1410/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
