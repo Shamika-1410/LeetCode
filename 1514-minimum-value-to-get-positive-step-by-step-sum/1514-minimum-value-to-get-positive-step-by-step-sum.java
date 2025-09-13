@@ -3,23 +3,14 @@ class Solution {
         int n = nums.length;
         int[] prefixSum = new int[n];
         prefixSum[0]=nums[0];
+        int min = prefixSum[0];
         for(int i=1;i<n;i++){
             prefixSum[i] = prefixSum[i-1] + nums[i];
+            min = Math.min(min, prefixSum[i]);
         }
-        int startValue = 1;
-        while(true){
-            int i = 0;
-            for(i=0;i<n;i++){
-                int currSum = startValue + prefixSum[i];
-                if(currSum<1){
-                    break;
-                }
-            }
-            if(i==n){
-                break;
-            }
-            startValue++;
+        if(min>=0){
+            return 1;
         }
-        return startValue;
+        return Math.abs(min)+1;
     }
 }
