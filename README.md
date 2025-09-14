@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shamika-1410/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Shamika-1410/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Shamika-1410/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1184-car-pooling](https://github.com/Shamika-1410/LeetCode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/Shamika-1410/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Shamika-1410/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shamika-1410/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Shamika-1410/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Shamika-1410/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1184-car-pooling](https://github.com/Shamika-1410/LeetCode/tree/master/1184-car-pooling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shamika-1410/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Shamika-1410/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shamika-1410/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shamika-1410/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shamika-1410/LeetCode/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/Shamika-1410/LeetCode/tree/master/0726-number-of-atoms) |
+| [1184-car-pooling](https://github.com/Shamika-1410/LeetCode/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shamika-1410/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shamika-1410/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shamika-1410/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shamika-1410/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shamika-1410/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shamika-1410/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/Shamika-1410/LeetCode/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shamika-1410/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shamika-1410/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shamika-1410/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/Shamika-1410/LeetCode/tree/master/1184-car-pooling) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shamika-1410/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Shamika-1410/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shamika-1410/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
